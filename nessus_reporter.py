@@ -55,4 +55,4 @@ try:
     doc.save("demo.docx")
 
 except:
-    print("Please double check if the source file is in the same folder as the tool and if the entered name is correct.")
+    print("Please double check if the entered name is correct.")
